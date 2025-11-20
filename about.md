@@ -35,11 +35,4 @@
 </div>
 
 
-
-I'm a DPhil student in Machine Learning at the University of Oxford, focusing on AI Safety, Interpretability, and Multi-Agent Systems.
-
-Previously, I was a Research Scientist Intern at Spotify and worked with the UK AI Security Institute (AISI) on their Bounty Programme investigating automated design of agentic systems. I was also the founding Research Scientist at Convergence (acquired by Salesforce), contributing to Proxy, a state-of-the-art multimodal web agent with 100k+ users, and held senior engineering roles at Pynea and Artera, leading teams and shipping ML innovations.
-
-I'm a member of LISA (London Initiative for Safe AI) and enjoy playing trumpet in a funk band, running bouldering socials, and helping new climbers get certified.
-
-P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
+Hi, my name is Matheus Kunzler Maldaner and I am a first-year master's student at the University of Florida in the M.S. AI Systems Program. I am originally from Brazil and moved to the United States from Brazil in 2017 where I attended highschool at Marjory Stoneman Douglas. I graduated Summa Cum Laude with B.S. in Data Science from the University of Florida with a thesis on the applications of Differentiable Logic Gate Networks. During my undergraduate at UF, I was also fortunate to be inducted into the UF Hall of Fame for my academic and leadership contributions. When I am not studying I enjoy making sushi (having worked at a sushi place for 2y), rock climbing (to follow the tech-bro stereotypes), reading science fiction books and participating in (and sometimes winning) hackathons.
